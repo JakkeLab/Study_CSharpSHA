@@ -1,0 +1,7 @@
+D:\Works\02_DEV\Study\Security\CSEncrypt\CSEncryption\CSEncryption\bin\Debug\CSEncryption.exe.config
+D:\Works\02_DEV\Study\Security\CSEncrypt\CSEncryption\CSEncryption\bin\Debug\CSEncryption.exe
+D:\Works\02_DEV\Study\Security\CSEncrypt\CSEncryption\CSEncryption\bin\Debug\CSEncryption.pdb
+D:\Works\02_DEV\Study\Security\CSEncrypt\CSEncryption\CSEncryption\obj\Debug\CSEncryption.csprojAssemblyReference.cache
+D:\Works\02_DEV\Study\Security\CSEncrypt\CSEncryption\CSEncryption\obj\Debug\CSEncryption.csproj.CoreCompileInputs.cache
+D:\Works\02_DEV\Study\Security\CSEncrypt\CSEncryption\CSEncryption\obj\Debug\CSEncryption.exe
+D:\Works\02_DEV\Study\Security\CSEncrypt\CSEncryption\CSEncryption\obj\Debug\CSEncryption.pdb
